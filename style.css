@@ -44,10 +44,12 @@ body {
   border: 7px solid #000000;
   transition: 0.5s;
 }
-
-/* login */
-p {
+.wrapper {
+  margin: 25px;
+}
+h6 {
   text-align: center;
+  margin: 20px;
 }
 
 input[type="text"] {
